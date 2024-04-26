@@ -7,9 +7,9 @@ public class PROYECTO {
         System.out.println("Introduce tu edad para decirte si eres mayor de edad o no.");
         int edad= sc.nextInt();
         if(edad>=18){
-            System.out.println("¡ERES MAYOR DE EDAD!");
+            System.out.println("¡eres mayor de edad!");
         }else{
-            System.out.println("¡ERES MENOR DE EDAD!");
+            System.out.println("¡eres menor de edad!");
         }
     }
 
