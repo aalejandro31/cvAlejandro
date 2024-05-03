@@ -9,7 +9,7 @@ public class PROYECTO {
         if(edad>=18){
             System.out.println("¡eres mayor de edad!");
         }else{
-            System.out.println("¡eres menor de edad!");
+            System.out.println("¡eres menor de edad");
         }
     }
 
